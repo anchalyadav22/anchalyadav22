@@ -82,11 +82,7 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-|  Brand Ambassador Intern  | [@TuteDude](https://tutedude.com/) | Aug 2021 - Sept 2021 |
-|  Web Developer Intern | [@LetsGrowMore](https://letsgrowmore.in/) | Sept 2021 - Oct 2021 |
-|  Web Developer(Future Skill Ready Talent Internship Programm)  | [@MicroSoft](https://futurereadytalent.in) | Nov 2021 - Dec 2021 |
-|  Web Developer Intern | [@Indo-European Scientific Research Group, London National Institute for Industrial Training](https://www.myniitportal.in/) | Nov 2021 - Feb 2021 |
-|  Business Development Intern | [@Indo-European Scientific Research Group, London National Institute for Industrial Training](https://www.myniitportal.in/) | Dec 2021 - Feb 2021 |
+|  Campus Director Intern  | [@IIT(BHU)]([https://iitbhu.ac.in/] | March 2022 - May 2022 |
 
 
 
@@ -110,8 +106,8 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 ## Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rahul-kumar-b83131213/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rahulkumar3108"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
+<a href="https://www.linkedin.com/in/anchal-yadav-1bb38b169/><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Anchaly03673358"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
 &nbsp;&nbsp;
   <a href="mailto:anchalyadav676@gmail.com"><img height="45" src="https://toppng.com/uploads/preview/mail-icon-logo-template-icono-de-gmail-11562954424h5fw2mradf.png"></a>&nbsp;&nbsp;
 </p>
