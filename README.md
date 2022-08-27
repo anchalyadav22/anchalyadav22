@@ -9,17 +9,16 @@
 
 <p>
  
-Hi, I am Anchal  Kumar Yadav, a creative thinker, a problem solver, and a student. I am a 3rd-year B.Tech (CSE). Being a CSE student, I have gained experience in web designing. Along with it, I am a 5-star Java coder in hackerrank. I am also available on different coding platforms,  CodeChef, Geeks for Geeks, and leetcode.  I have merely started this with a vision to be better in my work.
+Hi, I am Anchal  Kumar Yadav, a creative thinker, a problem solver, and a student. I am a 3rd-year B.Tech (CSE). Being a CSE student, I have gained experience in web designing. Along with it, I am a 3-star in hackerrank. I am also available on different coding platforms,  CodeChef, Geeks for Geeks, and leetcode.  I have merely started this with a vision to be better in my work.
 <!--
-I am a strong believer in “Follow your passion”. Poetry being my passion has helped me be what I am today. I can proudly say that I am a poet who has performed numerous poetry seminars.
+I am a strong believer in “Follow your passion” and having an attitude of "Never give up". 
   
-In case, you are wondering, what are my writeups are like. I’d advise you to take a glance at @KUCH_HASIN_SI_BAATIYEN on social media platforms such as <a href="https://www.instagram.com/kuch_hasin_si_baatiyen">Insta</a> / <a href="https://www.youtube.com/c/KUCHHASINSIBAATIYEN">YouTube</a>  / <a href="https://twitter.com/rahulkumar3108">Twitter</a>/<a href ="https://open.spotify.com/show/3mhpRvZT0BQzwQ8vmR6pnR">Spotify</a>/<a href="https://anchor.fm/kuch-hasin-si-baatiyen">Anchor</a> / <a href ="https://www.facebook.com/KUCHHASINSIBAATIYEN/">Fb page</a>.
+In case, you are wondering, what are my writeups are like. I’d advise you to take a glance at @Quora <a href="https://www.quora.com/profile/Anchal-Yadav-52"> Quora </a> 
   -->
 </p>
 
-![age](https://img.shields.io/badge/age-22-blue)
+![age](https://img.shields.io/badge/age-21-blue)
 ![WebDev](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![ShorFlim](https://img.shields.io/badge/focus-ScriptWriting-brightgreen)
 ![ProfileVistors](https://gpvc.arturio.dev/anchalyadav22)
 ![followers](https://img.shields.io/github/followers/anchalyadav22?style=social)
 
@@ -27,8 +26,7 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 <img width="45%" height ="300px" align="right" alt="GitHub Image" src="https://user-images.githubusercontent.com/84653100/162628214-533bf29a-7aa7-462b-9a53-608f7ec363d7.png" />
 
 <ul>
-  <li> 💬 Ask me about Full Stack Web Development | JavaScript | Script Writing | Poetry Writing | VoiceOver  | Data Structures | Algorithms </li>
-  <li>💼 Portfolio: Check out my Portfolio at <a href="https://kuchhasinsibaatiyen.wordpress.com/"><i class="fa fa-wordpress"></i>WordPress</a> |<a href="https://rahulkumar1404.github.io/kuch_hasin_si_baatiyen.github.io/"> Github Portfolio</a>  </li>
+  <li> 💬 Ask me about Full Stack Web Development | C/C++ | JavaScript | VoiceOver  | Data Structures | Algorithms </li>
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
   <li>👯 I’m looking to collaborate Short Flim Projects </li>
 </ul>
